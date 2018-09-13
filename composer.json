@@ -1,12 +1,15 @@
 {
-    "name": "formatter/mascara",
+    "name": "AdereldoOliveira/mascara",
     "authors": [
         {
             "name": "Adereldo Oliveira",
             "email": "oliveiracienciacomputacao@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "vendor/package": "1.*"
+    },
     "autoload": {
         "psr-4": {"Mascara\\": "src/"}
     }
