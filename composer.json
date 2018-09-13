@@ -1,0 +1,13 @@
+{
+    "name": "oliveira/mascara",
+    "authors": [
+        {
+            "name": "Adereldo Oliveira",
+            "email": "oliveiracienciacomputacao@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"Mascara\\": "src/"}
+    }
+}
