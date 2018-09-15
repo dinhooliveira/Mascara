@@ -1,0 +1,37 @@
+[
+    {
+        "name": "formatter/mascara",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/dinhooliveira/Mascara.git",
+            "reference": "a302e22e6bc2977a49d03fec679c5a169c005fda"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/dinhooliveira/Mascara/zipball/a302e22e6bc2977a49d03fec679c5a169c005fda",
+            "reference": "a302e22e6bc2977a49d03fec679c5a169c005fda",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2018-09-15T20:10:54+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "Mascara\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "authors": [
+            {
+                "name": "Adereldo Oliveira",
+                "email": "oliveiracienciacomputacao@gmail.com"
+            }
+        ],
+        "homepage": "https://github.com/dinhooliveira/Mascara.git"
+    }
+]

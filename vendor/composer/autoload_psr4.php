@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Mascara\\' => array($baseDir . '/src'),
+    'Mascara\\' => array($baseDir . '/src', $vendorDir . '/formatter/mascara/src'),
 );

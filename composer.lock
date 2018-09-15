@@ -1,0 +1,55 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "53606f6b505422cd32cc0a9af6763881",
+    "packages": [
+        {
+            "name": "formatter/mascara",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/dinhooliveira/Mascara.git",
+                "reference": "a302e22e6bc2977a49d03fec679c5a169c005fda"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/dinhooliveira/Mascara/zipball/a302e22e6bc2977a49d03fec679c5a169c005fda",
+                "reference": "a302e22e6bc2977a49d03fec679c5a169c005fda",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Mascara\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Adereldo Oliveira",
+                    "email": "oliveiracienciacomputacao@gmail.com"
+                }
+            ],
+            "homepage": "https://github.com/dinhooliveira/Mascara.git",
+            "time": "2018-09-15T20:10:54+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "formatter/mascara": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=5.3.0"
+    },
+    "platform-dev": []
+}

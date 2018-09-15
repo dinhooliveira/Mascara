@@ -17,6 +17,7 @@ class ComposerStaticInitc39a398aba3067cca753170179eb3be3
         'Mascara\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
+            1 => __DIR__ . '/..' . '/formatter/mascara/src',
         ),
     );
 
