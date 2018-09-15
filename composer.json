@@ -1,6 +1,7 @@
 {
     "name": "AdereldoOliveira/mascara",
-    "homepage": "http://github.com/kriansa/openboleto",
+    "type": "library",
+    "homepage": "https://github.com/dinhooliveira/Mascara.git",
     "authors": [
         {
             "name": "Adereldo Oliveira",
